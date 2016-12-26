@@ -1,0 +1,5 @@
+browser: Chrome
+login_url: http://localhost:8080/login
+login_user: nottyo
+login_password: Welcome1
+wait_timeout: 10s

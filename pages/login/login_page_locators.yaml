@@ -1,0 +1,6 @@
+username_textbox_id: id=j_username
+password_textbox_id: name=j_password
+login_button_id: id=yui-gen1-button
+page_not_load_error: Error! Login Page was not loaded.
+login_failed_error: Invalid login information. Please try again.
+login_failed_title: Login Error [Jenkins]
